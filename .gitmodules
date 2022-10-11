@@ -1,0 +1,6 @@
+[submodule "Lab2"]
+	path = Lab2
+	url = https://github.com/DsiDerInKo/Lab2.git
+[submodule "MadeInHeaven"]
+	path = MadeInHeaven
+	url = https://github.com/DsiDerInKo/MadeInHeaven.git
